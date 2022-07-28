@@ -3,11 +3,11 @@
 
 ## Description
 - this gym system management contains 3 dashboards
-  *admin dashboard
-  *coach dashboard
-  *member dashboard
-  *login form
-  *register form
+  admin dashboard
+  coach dashboard
+  member dashboard
+  login form
+  register form
   
 each one of these dashboards have it own options
 ## the options of ADMIN dashboard can
