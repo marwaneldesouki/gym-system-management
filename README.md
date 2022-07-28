@@ -9,8 +9,8 @@
   - login form
   - register form
   
-each one of these dashboards have it own options
-## the options of ADMIN dashboard can
+## each one of these dashboards have it own options
+  # the options of ADMIN dashboard can
  - add coach
  - add notification
  - see total payment
