@@ -1,14 +1,31 @@
 # Project Title
-- Gym-System-Management
+- Gym-System-Management with java Jframe + SQLite
+
+## Database used
+-	SQLite
+
+## Libraries used
+- sqlitejdbc-v056
+- jcalendar-1.4
+- joda-time-2.10.8
+
+## Requirements
+-	java installed in pc
 
 ## Description
 - this gym system management contains 3 dashboards
 
   - admin dashboard
+    ![image](https://user-images.githubusercontent.com/37198610/181570991-24689c7c-14d6-46e1-aabc-c1a613a863e8.png)
   - coach dashboard
+    ![image](https://user-images.githubusercontent.com/37198610/181571076-7dba826d-4d5a-448f-a4fe-ca736e7df039.png)
+
   - member dashboard
+    ![image](https://user-images.githubusercontent.com/37198610/181571130-f61f1dc5-e657-4cd5-8ccc-29402fc6bcc9.png)
+
   - login form
-  - register form
+    ![image](https://user-images.githubusercontent.com/37198610/181570930-5193242d-229b-4f83-81a3-d07e26ef85b3.png)
+
   
 ## the options of ADMIN dashboard can
 
@@ -23,25 +40,16 @@
   - see total users
   - total payment
   - total expired memberships
-  - add new user
+  - add new user and u can choose the type of membership(1 month,6 months,1 year)
   - add schedule to members
   - show/edit/delete schedule
   - ban users
+## the options of MEMBER dashboard can 
+  -see his own schedule
+  -settings to change his own informations
+  -payment to pay the recipte of the membership to show his own schedule
  
 
-## DataSet used
--	There is a script(data_set_maker) to make dataset By taking 10 images to the person from the camera and name folder to name of the person to make it unique.
- ![data](https://user-images.githubusercontent.com/37198610/181280778-a3ed9bdd-184a-4ebd-b92c-00173ffb78f3.png)
-
-## Libraries used
-•	cv2
-•	face_recognition
-•	os
-•	numpy 
-•	PIL
-
-## Requirements
-•	Python 3.3+ or Python 2.7
 
 ## How it work ?
 •	at first the (data_set_maker) script open the camera and take 10 images to the person and automatic crop the image to the face only
