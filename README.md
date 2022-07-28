@@ -30,11 +30,23 @@
 ## the options of ADMIN dashboard can
 
   - add coach
+    ![image](https://user-images.githubusercontent.com/37198610/181571395-23d38202-3437-46ab-bd1b-3fcd466e840b.png)
+
   - add notification
+    ![image](https://user-images.githubusercontent.com/37198610/181571559-86590ab2-11ae-46ff-abd5-a9403bacee62.png)
+
   - see total payment
+    ![image](https://user-images.githubusercontent.com/37198610/181571575-266722e1-e80c-470b-a006-7cad404916e0.png)
+
   - see total members
+       ![image](https://user-images.githubusercontent.com/37198610/181571589-5c917a25-bf2d-497c-a46c-8dd97cb86c17.png)
+
   - see total coaches
+    ![image](https://user-images.githubusercontent.com/37198610/181571611-7556720f-e3bb-4b0c-9385-a10f1c8b6a07.png)
+
   - ban users
+    ![image](https://user-images.githubusercontent.com/37198610/181571658-6cb59552-97f8-4544-bd7e-2560922e3d38.png)
+
 ## the options of COACH dashboard can
 
   - see total users
