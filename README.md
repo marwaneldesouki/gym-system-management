@@ -54,9 +54,9 @@
 
 
 ## security
- -you can`t login into the system without being a member in DB
- -if the membership was expired you will get a messagebox saying that you can`t login
- -if the member was banned he will get messagebox saying that you have been banned and he can`t login
+ - you cant login into the system without being a member in DB
+ - if the membership was expired you will get a messagebox saying that you cant login
+ - if the member was banned he will get messagebox saying that you have been banned and he cant login
 
 ## Developer
 marwan eldesouki
