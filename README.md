@@ -11,12 +11,12 @@
   
 ## each one of these dashboards have it own options
   # the options of ADMIN dashboard can
- - add coach
- - add notification
- - see total payment
- - see total members
- - see total coaches
- * ban users
+   - add coach
+   - add notification
+   - see total payment
+   - see total members
+   - see total coaches
+   * ban users
 ## the options of COACH dashboard can
  -see total users
  -total payment
