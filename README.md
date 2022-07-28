@@ -3,20 +3,20 @@
 
 ## Description
 - this gym system management contains 3 dashboards
-  -admin dashboard
-  -coach dashboard
-  -member dashboard
-  -login form
-  -register form
+  - admin dashboard
+  - coach dashboard
+  - member dashboard
+  - login form
+  - register form
   
 each one of these dashboards have it own options
 ## the options of ADMIN dashboard can
- -add coach
- -add notification
- -see total payment
- -see total members
- -see total coaches
- -ban users
+ - add coach
+ - add notification
+ - see total payment
+ - see total members
+ - see total coaches
+ * ban users
 ## the options of COACH dashboard can
  -see total users
  -total payment
